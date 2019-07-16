@@ -1,4 +1,4 @@
-# react-native-location-tracking
+# react-native-location-tracking with GeoFencing
 Tracks user and draws a path as the user location changes.
 
 Read article posted on [Medium](https://medium.com/quick-code/react-native-location-tracking-14ab2c9e2db8)
