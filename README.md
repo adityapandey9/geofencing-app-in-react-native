@@ -3,9 +3,6 @@ Tracks user and draws a path as the user location changes.
 
 Read article posted on [Medium](https://medium.com/quick-code/react-native-location-tracking-14ab2c9e2db8)
 
-![Image #1](https://raw.githubusercontent.com/adityapandey9/geofencing-app-in-react-native/master/imgs/Screenshot_2019-07-16-11-37-37-315_com.locationtracking.png)
-
-![Image #2](https://raw.githubusercontent.com/adityapandey9/geofencing-app-in-react-native/master/imgs/Screenshot_2019-07-16-11-37-44-323_com.locationtracking.png)
 
 ## Installation
 ### npm modules
